@@ -1,0 +1,23 @@
+
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(€‹¡ıÿÿÿÿ8ßƒİ¸Ã.
+G
+java:S1481"*Remove this unused "count" local variable.(æÕ¿¼8Íí®Şä.
+V
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8‹³Ù«İ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(±ê¤{8›­ù.
+R
+java:S1481("0Remove this unused "currentDate" local variable.(µáãşÿÿÿÿ8±ÏãÆ.
+\
+java:S1854":Remove this useless assignment to local variable "myList".(¾İ°†ÿÿÿÿÿ8›­ù.
+a
+java:S1854("?Remove this useless assignment to local variable "currentDate".(µáãşÿÿÿÿ8±ÏãÆ.
+]	java:S125"<This block of commented-out lines of code should be removed.(¸òèíøÿÿÿÿ8˜ÍÜ«İ.
+n
+java:S1144"LRemove this unused private "getCustomerProfileAndAccountGroupMatrix" method.(à»«¼ıÿÿÿÿ8˜ÍÜ«İ.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(×µ²ÿıÿÿÿÿ8±ÏãÆ.
+g
+java:S1128"ERemove this unused import 'javax.swing.plaf.synth.SynthOptionPaneUI'.(ªè´¡şÿÿÿÿ8’ªìÕ.
+M
+java:S1481"+Remove this unused "myList" local variable.(¾İ°†ÿÿÿÿÿ8›­ù.
+J
+java:S1144""-Remove this unused private "testDate" method.(î’´ç8¸Ñí€Ó.
